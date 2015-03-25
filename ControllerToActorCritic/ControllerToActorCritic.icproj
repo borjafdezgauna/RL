@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="ControllerToActorCritic"
+	ProjectGUID="{8B79B991-213A-4C87-B860-7F0C1BAF1164}"
+	VCNestedProjectGUID="{C02FD0DA-4C15-4C93-833A-A4A107EAA37E}"
+	VCNestedProjectFileName="ControllerToActorCritic.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

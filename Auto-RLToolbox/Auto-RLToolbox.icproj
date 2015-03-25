@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="Auto-RLToolbox"
+	ProjectGUID="{D37CA501-9201-4D33-8215-E4B7CEE40544}"
+	VCNestedProjectGUID="{D7406D9A-6C47-44D9-9012-6702DF327E16}"
+	VCNestedProjectFileName="Auto-RLToolbox.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

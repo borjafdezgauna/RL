@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="RLToolboxManager"
+	ProjectGUID="{93E6AE35-6CFE-4F39-B8D2-23AE8E30EE70}"
+	VCNestedProjectGUID="{0C6726F1-449F-4A3C-9789-F14AFD6FAE44}"
+	VCNestedProjectFileName="ball-screw-actor-critic.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>
